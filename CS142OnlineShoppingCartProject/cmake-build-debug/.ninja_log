@@ -1,0 +1,5 @@
+# ninja log v5
+1	335	6768643843323559	build.ninja	5f798e1a90c82b97
+310	409	6765366506000300	CS142OnlineShoppingCartProject.exe	1d4473ad45223e05
+3	298	6765349859969606	CMakeFiles/CS142OnlineShoppingCartProject.dir/ItemToPurchase.cpp.obj	6c1977fe12fafebe
+2	310	6765366505033531	CMakeFiles/CS142OnlineShoppingCartProject.dir/main.cpp.obj	7d7d891bf69c216a

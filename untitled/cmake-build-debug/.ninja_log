@@ -1,0 +1,5 @@
+# ninja log v5
+1	304	6656345712000634	CMakeFiles/untitled.dir/main.c.obj	b607f2c619bb2ac7
+112	228	6656346372358062	untitled.exe	12616add8d5f26b3
+1	353	6727838415465371	build.ninja	e204424c1e08729a
+0	111	6656346371221009	CMakeFiles/untitled.dir/bmpFilter.c.obj	4a7e1ec3bc1e1d92

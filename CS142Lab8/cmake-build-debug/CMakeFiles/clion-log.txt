@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\sheld\CLionProjects\CS142Lab8 -B C:\Users\sheld\CLionProjects\CS142Lab8\cmake-build-debug
+CMake Error at CMakeLists.txt:9:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "8.7".
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/sheld/CLionProjects/CS142Lab8/cmake-build-debug/CMakeFiles/CMakeOutput.log".

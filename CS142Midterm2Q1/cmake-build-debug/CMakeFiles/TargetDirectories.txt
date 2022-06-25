@@ -1,0 +1,3 @@
+C:/Users/sheld/CLionProjects/CS142Midterm2Q1/cmake-build-debug/CMakeFiles/CS142Midterm2Q1.dir
+C:/Users/sheld/CLionProjects/CS142Midterm2Q1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sheld/CLionProjects/CS142Midterm2Q1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
